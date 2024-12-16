@@ -1,1 +1,1 @@
-# Equal-Weight-S-P500-Index-Tracker
+# Equal-Weight-S&P500-Index-Tracker
